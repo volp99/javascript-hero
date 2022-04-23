@@ -1,16 +1,13 @@
 {
-  "name": "@exercism/javascript-annalyns-infiltration",
-  "description": "Exercism concept exercise on booleans",
-  "author": "Ovidiu Miu",
-  "contributors": [
-    "Derk-Jan Karrenbeld <derk-jan+git@karrenbeld.info> (https://derk-jan.com)"
-  ],
+  "name": "@exercism/javascript-freelancer-rates",
+  "description": "Exercism concept exercise on numbers",
+  "author": "Derk-Jan Karrenbeld <derk-jan+github@karrenbeld.info>",
   "private": true,
   "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/exercism/javascript",
-    "directory": "exercises/concept/annalyns-infiltration"
+    "directory": "exercises/concept/freelancer-rates"
   },
   "devDependencies": {
     "@babel/core": "^7.17.9",

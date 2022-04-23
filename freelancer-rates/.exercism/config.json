@@ -1,23 +1,23 @@
 {
   "authors": [
-    "ovidiu141"
+    "SleeplessByte",
+    "JaPatGitHub"
   ],
   "contributors": [
-    "rishiosaur",
-    "SleeplessByte"
+    "junedev"
   ],
   "files": {
     "solution": [
-      "annalyns-infiltration.js"
+      "freelancer-rates.js"
     ],
     "test": [
-      "annalyns-infiltration.spec.js"
+      "freelancer-rates.spec.js"
     ],
     "exemplar": [
       ".meta/exemplar.js"
     ]
   },
-  "blurb": "Help Annalyn free her best friend using boolean logic in JavaScript",
+  "blurb": "Learn about numbers whilst helping a freelancer communicate with a project manager about day- and month rates.",
   "custom": {
     "version.tests.compatibility": "jest-27",
     "flag.tests.task-per-describe": true,
