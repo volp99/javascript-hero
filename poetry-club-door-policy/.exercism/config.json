@@ -1,23 +1,24 @@
 {
   "authors": [
-    "SleeplessByte",
-    "JaPatGitHub"
+    "SleeplessByte"
   ],
   "contributors": [
-    "junedev"
+    "hayashi-ay",
+    "junedev",
+    "mmmmmrob"
   ],
   "files": {
     "solution": [
-      "freelancer-rates.js"
+      "door-policy.js"
     ],
     "test": [
-      "freelancer-rates.spec.js"
+      "door-policy.spec.js"
     ],
     "exemplar": [
       ".meta/exemplar.js"
     ]
   },
-  "blurb": "Learn about numbers whilst helping a freelancer communicate with a project manager about day- and month rates.",
+  "blurb": "Learn about strings using poems to get into the poetry club.",
   "custom": {
     "version.tests.compatibility": "jest-27",
     "flag.tests.task-per-describe": true,
