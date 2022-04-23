@@ -1,25 +1,23 @@
 {
   "authors": [
-    "SleeplessByte"
+    "ovidiu141"
   ],
   "contributors": [
-    "junedev"
+    "rishiosaur",
+    "SleeplessByte"
   ],
   "files": {
     "solution": [
-      "lasagna.js"
+      "annalyns-infiltration.js"
     ],
     "test": [
-      "lasagna.spec.js"
+      "annalyns-infiltration.spec.js"
     ],
     "exemplar": [
       ".meta/exemplar.js"
     ]
   },
-  "forked_from": [
-    "csharp/lasagna"
-  ],
-  "blurb": "Learn the basics of JavaScript cooking a brilliant lasagna from your favorite cooking book.",
+  "blurb": "Help Annalyn free her best friend using boolean logic in JavaScript",
   "custom": {
     "version.tests.compatibility": "jest-27",
     "flag.tests.task-per-describe": true,

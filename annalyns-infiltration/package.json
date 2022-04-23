@@ -1,13 +1,16 @@
 {
-  "name": "@exercism/javascript-lasagna",
-  "description": "Exercism concept exercise on basics",
-  "author": "Derk-Jan Karrenbeld <derk-jan+github@karrenbeld.info>",
+  "name": "@exercism/javascript-annalyns-infiltration",
+  "description": "Exercism concept exercise on booleans",
+  "author": "Ovidiu Miu",
+  "contributors": [
+    "Derk-Jan Karrenbeld <derk-jan+git@karrenbeld.info> (https://derk-jan.com)"
+  ],
   "private": true,
   "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/exercism/javascript",
-    "directory": "exercises/concept/lasagna"
+    "directory": "exercises/concept/annalyns-infiltration"
   },
   "devDependencies": {
     "@babel/core": "^7.17.9",
