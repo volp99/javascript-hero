@@ -1,16 +1,13 @@
 {
-  "name": "@exercism/javascript-elyses-enchantments",
-  "description": "Exercism concept exercise on arrays",
-  "author": "Ovidiu Miu",
-  "contributors": [
-    "Derk-Jan Karrenbeld <derk-jan+git@karrenbeld.info> (https://derk-jan.com)"
-  ],
+  "name": "@exercism/javascript-vehicle-purchase",
+  "description": "Exercism concept exercise on conditionals and comparison",
+  "author": "Franziska Obbarius <12543047+junedev@users.noreply.github.com>",
   "private": true,
   "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/exercism/javascript",
-    "directory": "exercises/concept/elyses-enchantments"
+    "directory": "exercises/concept/vehicle-purchase"
   },
   "devDependencies": {
     "@babel/core": "^7.17.9",

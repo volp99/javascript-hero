@@ -1,28 +1,25 @@
 {
   "authors": [
-    "ovidiu141",
-    "SleeplessByte"
+    "junedev"
   ],
   "contributors": [
-    "peterchu999",
-    "pertrai1",
-    "nasch"
+    "SleeplessByte"
   ],
   "files": {
     "solution": [
-      "enchantments.js"
+      "vehicle-purchase.js"
     ],
     "test": [
-      "enchantments.spec.js"
+      "vehicle-purchase.spec.js"
     ],
     "exemplar": [
       ".meta/exemplar.js"
     ]
   },
   "forked_from": [
-    "go/card-tricks"
+    "julia/vehicle-purchase"
   ],
-  "blurb": "Help Elyse with her Enchantments and learn about arrays in the process.",
+  "blurb": "Learn about comparison and conditionals while preparing for your next vehicle purchase",
   "custom": {
     "version.tests.compatibility": "jest-27",
     "flag.tests.task-per-describe": true,
