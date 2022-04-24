@@ -2,24 +2,21 @@
   "authors": [
     "junedev"
   ],
-  "contributors": [
-    "SleeplessByte"
-  ],
   "files": {
     "solution": [
-      "vehicle-purchase.js"
+      "bird-watcher.js"
     ],
     "test": [
-      "vehicle-purchase.spec.js"
+      "bird-watcher.spec.js"
     ],
     "exemplar": [
       ".meta/exemplar.js"
     ]
   },
   "forked_from": [
-    "julia/vehicle-purchase"
+    "csharp/bird-watcher"
   ],
-  "blurb": "Learn about comparison and conditionals while preparing for your next vehicle purchase",
+  "blurb": "Professionalize counting the birds in your garden with for loops and increment/decrement operators",
   "custom": {
     "version.tests.compatibility": "jest-27",
     "flag.tests.task-per-describe": true,
