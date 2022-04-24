@@ -1,4 +1,5 @@
 # Javascript Hero
+## This repo is currently in development 🏗️
 JavaScript exercises from the basics to advanced concepts
 
 ## 🚶 How start
