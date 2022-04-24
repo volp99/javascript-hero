@@ -1,24 +1,28 @@
 {
   "authors": [
+    "ovidiu141",
     "SleeplessByte"
   ],
   "contributors": [
-    "hayashi-ay",
-    "junedev",
-    "mmmmmrob"
+    "peterchu999",
+    "pertrai1",
+    "nasch"
   ],
   "files": {
     "solution": [
-      "door-policy.js"
+      "enchantments.js"
     ],
     "test": [
-      "door-policy.spec.js"
+      "enchantments.spec.js"
     ],
     "exemplar": [
       ".meta/exemplar.js"
     ]
   },
-  "blurb": "Learn about strings using poems to get into the poetry club.",
+  "forked_from": [
+    "go/card-tricks"
+  ],
+  "blurb": "Help Elyse with her Enchantments and learn about arrays in the process.",
   "custom": {
     "version.tests.compatibility": "jest-27",
     "flag.tests.task-per-describe": true,
