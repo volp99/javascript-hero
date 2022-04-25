@@ -38,6 +38,8 @@ Next:
 >Inside the directory you will be find some documentation relative to the exercise with the main file **already done**.
 >
 >I suggest you to create another from scratch and start to code 💻
+>
+>You can also find a test file in order to test your solution 🧪
 
 
 ## 👷 How to run
