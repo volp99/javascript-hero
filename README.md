@@ -1,6 +1,6 @@
 # Javascript Hero
 ## This repo is currently in development 🏗️
-JavaScript exercises from the basics to advanced concepts
+JavaScript exercises from the basics to advanced concepts.
 
 ## 🚶 How start
 You need to install [Node.js](https://nodejs.org/it/) and (optionally) [Yarn](https://yarnpkg.com/) first.
