@@ -76,3 +76,5 @@ Feel free to file a new issue with a respective title and description on this re
 08 - [Bird Watcher](https://github.com/volp99/javascript-hero/tree/08-bird-watcher/bird-watcher)
 
 09 - [Mixed Juices](https://github.com/volp99/javascript-hero/tree/09-mixed-juices/mixed-juices)
+
+10 - [High Score Board](https://github.com/volp99/javascript-hero/tree/10-high-score-board/high-score-board)
