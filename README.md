@@ -100,3 +100,7 @@ Feel free to file a new issue with a respective title and description on this re
 ## Null and Undefined
 
 11 - [Amusement Park](https://github.com/volp99/javascript-hero/tree/11-amusement-park/amusement-park)
+
+## Type Conversion
+
+12 - [Lucky Numbers](https://github.com/volp99/javascript-hero/tree/12-lucky-numbers/lucky-numbers)
