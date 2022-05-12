@@ -79,4 +79,4 @@ Feel free to file a new issue with a respective title and description on this re
 
 10 - [High Score Board](https://github.com/volp99/javascript-hero/tree/10-high-score-board/high-score-board)
 
-11- [Amusement Park](https://github.com/volp99/javascript-hero/tree/11-amusement-park/amusement-park)
+11 - [Amusement Park](https://github.com/volp99/javascript-hero/tree/11-amusement-park/amusement-park)
